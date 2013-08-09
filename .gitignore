@@ -11,3 +11,8 @@
 *.lai
 *.la
 *.a
+
+# 
+debug
+release
+.svn
